@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfd0441f-bbb1-49b3-bc7e-5c8b3a6911e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W0rvCRw6Qj6eUyyk7mUC6UoWm9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RestoDynamiqueVincent" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\isiweb4shop" />
+      <recent name="C:\wamp\www\isiweb4shop\View" />
+      <recent name="C:\wamp\www\isiweb4shop\Controler" />
+      <recent name="C:\wamp\www\isiweb4shop\public" />
+      <recent name="C:\wamp\www\isiweb4shop\Include" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd0441f-bbb1-49b3-bc7e-5c8b3a6911e3" name="Default Changelist" comment="" />
+      <created>1578297581057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578297581057</updated>
+      <workItem from="1578297582429" duration="3862000" />
+      <workItem from="1578471952615" duration="2073000" />
+      <workItem from="1578474839780" duration="2524000" />
+      <workItem from="1578479982449" duration="344000" />
+      <workItem from="1578581063319" duration="5568000" />
+      <workItem from="1578605092552" duration="9252000" />
+      <workItem from="1578655100259" duration="5271000" />
+      <workItem from="1578743546053" duration="6983000" />
+      <workItem from="1578753066755" duration="5076000" />
+      <workItem from="1579072947643" duration="5609000" />
+      <workItem from="1579079974886" duration="910000" />
+      <workItem from="1579081116142" duration="2480000" />
+      <workItem from="1579255323606" duration="6147000" />
+      <workItem from="1579281000120" duration="5226000" />
+      <workItem from="1579289478034" duration="8354000" />
+      <workItem from="1579365316463" duration="4557000" />
+      <workItem from="1579453155867" duration="4242000" />
+      <workItem from="1579508631349" duration="474000" />
+      <workItem from="1579509683148" duration="1914000" />
+      <workItem from="1579521590206" duration="10263000" />
+      <workItem from="1579532977902" duration="549000" />
+      <workItem from="1579597622049" duration="5394000" />
+      <workItem from="1579603710446" duration="2714000" />
+      <workItem from="1579611776925" duration="6314000" />
+      <workItem from="1579621377534" duration="2931000" />
+      <workItem from="1579624541097" duration="2759000" />
+      <workItem from="1579692718820" duration="4581000" />
+      <workItem from="1579698205079" duration="12265000" />
+      <workItem from="1579734763009" duration="1329000" />
+      <workItem from="1579763292997" duration="6176000" />
+      <workItem from="1579769906841" duration="6862000" />
+      <workItem from="1579788520418" duration="7376000" />
+      <workItem from="1579802517887" duration="1305000" />
+      <workItem from="1579861473404" duration="1516000" />
+      <workItem from="1579865807668" duration="1109000" />
+      <workItem from="1579867716491" duration="2444000" />
+      <workItem from="1579874252175" duration="2472000" />
+      <workItem from="1579947771020" duration="13038000" />
+      <workItem from="1580033771458" duration="28448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="70" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580048354231">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="70" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1580048354231" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580054039221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580054039221" />
+    <state x="441" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579529328558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1579529328558" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1579725461584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579725461584" />
+    <state x="505" y="178" key="NewPhpClassDialog" timestamp="1580054081801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="505" y="178" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1580054081801" />
+    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1580057124422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1580057124422" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1580033986975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580033986975" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1579792055281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579792055281" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579606068535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579606068535" />
+  </component>
+</project>
